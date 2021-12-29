@@ -84,7 +84,7 @@ padding: 10rem;
 .footer{
     background: hsl(168, 34%, 41%);
     width: 100%;
-    padding: 200px;
+    padding: 200px 0;
 }
 .footer .footer-info ul {
 list-style-type: none;
@@ -163,6 +163,9 @@ header nav >img{
 /* media query */
 
 @media (max-width:768px){
+    .cover .cover__caption h1 {
+  font-size: 2rem;
+    }
     .grid-50{
             display: block;
     }

@@ -121,8 +121,22 @@ align-items: center;
     justify-content: center;
 }
 .img-responsive{width: 100%;}
-.menu{right: 50%;}
-header{position: absolute;font-family: 'Barlow', sans-serif;}
+.menu{
+
+    position: relative;
+display: flex;
+justify-content: space-between;
+align-content: center;
+align-items: center;
+right: 0;
+padding: 2rem;
+margin: 0 auto;
+height: 0;
+}
+header{  position: absolute;right:0;font-family: 'Barlow', sans-serif;}
+header nav >img{
+    position: relative;right: 100%;
+}
 .item{
     display: inline-block;
     padding: 23px;
@@ -130,6 +144,7 @@ header{position: absolute;font-family: 'Barlow', sans-serif;}
     
 }
 .item a{
+    text-decoration: none;
     color: #fff;
 }
 

@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ciro-pastore/Frontend-Mentor-Sunnyside-agency-landing-page-grid-with-flexbox)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-sunnyside-agency-landing-page-grid-with-flexbox.vercel.app/)
+- Solution URL: [Soluzione](https://github.com/ciro-pastore/Frontend-Mentor-Sunnyside-agency-landing-page-grid-with-flexbox)
+- Live Site URL: [live url sito](https://frontend-mentor-sunnyside-agency-landing-page-grid-with-flexbox.vercel.app/)
 
 ## My process
 
@@ -100,8 +100,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://ciropastore.it)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ciro-pastore)
+- Website - [Ciro](https://ciropastore.it)
+- Frontend Mentor - [@ciro-pastore](https://www.frontendmentor.io/profile/ciro-pastore)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
